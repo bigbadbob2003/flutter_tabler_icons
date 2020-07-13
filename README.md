@@ -16,3 +16,4 @@ class MyWidget extends StatelessWidget {
   }
 }
 ```
+![alt text](https://github.com/bigbadbob2003/flutter_tabler_icons/raw/master/.github/screenshot.png)
