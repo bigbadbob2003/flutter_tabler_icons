@@ -2,7 +2,7 @@
 
 The [Tabler Icon Pack](https://github.com/tabler/tabler-icons) in Flutter
 
-## pubspec.yml
+## pubspec.yaml
 ```yml
 dependencies:
   flutter:
