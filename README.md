@@ -2,6 +2,14 @@
 
 The [Tabler Icon Pack](https://github.com/tabler/tabler-icons) in Flutter
 
+## pubspec.yaml
+```yml
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tabler_icons:
+    git: https://github.com/bigbadbob2003/flutter_tabler_icons.git
+```
 
 ## Usage
 ```Dart
@@ -16,3 +24,4 @@ class MyWidget extends StatelessWidget {
   }
 }
 ```
+![alt text](https://github.com/bigbadbob2003/flutter_tabler_icons/raw/master/.github/screenshot.png)
