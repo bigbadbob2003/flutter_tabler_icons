@@ -2,7 +2,7 @@ name: flutter_tabler_icons
 description: Tabler Icons for flutter using icons from https://github.com/tabler/tabler-icons by Csaba Kissi @csaba_kissi
 
 publish_to: "none"
-version: 1.0.0+1
+version: 1.0.0
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
