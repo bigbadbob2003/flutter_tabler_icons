@@ -1,3 +1,9 @@
+## [1.0.3-rc.1] - 2020-12-24
+
+### Changed
+
+- Update minimum SDK constraint to support null safety
+
 ## [1.0.2] - 2020-07-14
 
 ### Changed
