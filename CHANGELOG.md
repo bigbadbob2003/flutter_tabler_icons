@@ -1,3 +1,9 @@
+## [1.1.0] - 2021-30-04
+
+### Changed
+
+- Updated Tabler Icons to version 1.41.1
+
 ## [1.0.3-rc.1] - 2020-12-24
 
 ### Changed
