@@ -58,10 +58,10 @@ packages:
   flutter_tabler_icons:
     dependency: "direct main"
     description:
-      name: flutter_tabler_icons
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.0"
+      path: ".."
+      relative: true
+    source: path
+    version: "1.1.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -150,4 +150,4 @@ packages:
     source: hosted
     version: "2.1.0"
 sdks:
-  dart: ">=2.12.0-0.0 <3.0.0"
+  dart: ">=2.12.0 <3.0.0"

@@ -7,7 +7,7 @@ The [Tabler Icon Pack](https://github.com/tabler/tabler-icons) in Flutter
 dependencies:
   flutter:
     sdk: flutter
-  flutter_tabler_icons: ^1.1.0
+  flutter_tabler_icons: ^1.1.1
 ```
 
 ## Usage

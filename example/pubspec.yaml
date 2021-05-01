@@ -9,7 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_tabler_icons: ^1.0.0
+
+  flutter_tabler_icons:
+    path: ..
 
 dev_dependencies:
   flutter_test:

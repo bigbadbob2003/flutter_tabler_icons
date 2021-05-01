@@ -1,3 +1,9 @@
+## [1.1.1] - 2021-1-05
+
+### Changed
+
+- Fixed broken icons
+
 ## [1.1.0] - 2021-30-04
 
 ### Changed
