@@ -1,6 +1,8 @@
-# tabler_icons_flutter
+# flutter_tabler_icons
 
 The [Tabler Icon Pack](https://github.com/tabler/tabler-icons) in Flutter
+
+Tabler icons version: 1.41.1
 
 ## pubspec.yaml
 ```yml
