@@ -3,6 +3,7 @@
 import argparse
 import os
 import re
+import shutil
 
 
 # def get_icon_locations(input: str):
@@ -104,6 +105,13 @@ if __name__ == "__main__":
         required=True,
     )
 
+    parser.add_argument(
+        "-to",
+        "--ttf-out",
+        help="Where to copy the TTF file",
+        required=True,
+    )
+
     args = parser.parse_args()
 
     css_file_path = os.path.join(args.input, "iconfont", "tabler-icons.css")
@@ -129,3 +137,7 @@ if __name__ == "__main__":
 
     with open(args.output, "w") as output_file:
         output_file.write(flutter_class)
+
+    ttf_file_path = os.path.join(args.input, "iconfont", "fonts", "tabler-icons.ttf")
+
+    shutil.copy(ttf_file_path, args.ttf_out)
