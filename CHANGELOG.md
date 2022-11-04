@@ -1,3 +1,10 @@
+## [1.1.2] - 2021-1-05
+
+### Changed
+
+- Tabler icons updated to version 1.97.0
+- Python script added to generate the Dart files for the icons
+
 ## [1.1.1] - 2021-1-05
 
 ### Changed
