@@ -2,7 +2,7 @@
 
 The [Tabler Icon Pack](https://github.com/tabler/tabler-icons) in Flutter
 
-Tabler icons version: 1.41.1
+Tabler icons version: 1.97.0
 
 ## pubspec.yaml
 ```yml
@@ -25,4 +25,9 @@ class MyWidget extends StatelessWidget {
   }
 }
 ```
-![alt text](https://github.com/bigbadbob2003/flutter_tabler_icons/raw/master/.github/screenshot.png)
+
+## Updating Icons
+
+This package can be updated to use a newer release of Tabler Icons with `tabler_gen.py` in `/util`. It takes the codepoints from the CSS file of the release and generates a Flutter class of all of the icons.
+
+![Screenshot of example app](https://github.com/bigbadbob2003/flutter_tabler_icons/raw/master/.github/screenshot.png)
