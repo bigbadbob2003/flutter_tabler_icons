@@ -23,6 +23,7 @@ jobs:
       - name: Get dependencies
         run: flutter pub get
 
+      - uses: dart-lang/setup-dart@v1
       - name: Publish to pub.dev
         run: flutter pub publish --force
 
