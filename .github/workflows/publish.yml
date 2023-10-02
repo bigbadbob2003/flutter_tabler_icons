@@ -24,7 +24,7 @@ jobs:
         run: flutter pub get
 
       - name: Publish to pub.dev
-        run: flutter pub publish
+        run: flutter pub publish --force
 
       - name: Clean up
         run: flutter clean
