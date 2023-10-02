@@ -114,7 +114,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    css_file_path = os.path.join(args.input, "iconfont", "tabler-icons.css")
+    css_file_path = os.path.join(args.input, "tabler-icons.css")
 
     name_code_point_dict = {}
 
@@ -138,6 +138,6 @@ if __name__ == "__main__":
     with open(args.output, "w") as output_file:
         output_file.write(flutter_class)
 
-    ttf_file_path = os.path.join(args.input, "iconfont", "fonts", "tabler-icons.ttf")
+    ttf_file_path = os.path.join(args.input, "fonts", "tabler-icons.ttf")
 
     shutil.copy(ttf_file_path, args.ttf_out)
