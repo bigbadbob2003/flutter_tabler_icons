@@ -9,7 +9,7 @@ Tabler icons version: v2.38.0
 dependencies:
   flutter:
     sdk: flutter
-  flutter_tabler_icons: ^1.4.0
+  flutter_tabler_icons: ^1.5.0
 ```
 
 ## Usage
