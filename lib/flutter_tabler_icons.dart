@@ -790,6 +790,7 @@ class TablerIcons {
     static const IconData brand_google_analytics = IconData(0xedcb, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_google_big_query = IconData(0xf612, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_google_drive = IconData(0xec1e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData brand_google_filled = IconData(0xfd1a, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_google_fit = IconData(0xf297, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_google_home = IconData(0xf601, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_google_maps = IconData(0xfa4f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -884,6 +885,7 @@ class TablerIcons {
     static const IconData brand_pocket = IconData(0xed00, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_polymer = IconData(0xf498, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_powershell = IconData(0xf5ed, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData brand_printables = IconData(0xfd1b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_prisma = IconData(0xf499, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_producthunt = IconData(0xedd3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_pushbullet = IconData(0xf330, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -944,6 +946,7 @@ class TablerIcons {
     static const IconData brand_telegram = IconData(0xec26, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_terraform = IconData(0xfa56, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_tether = IconData(0xf5a3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData brand_thingiverse = IconData(0xfd1c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_threads = IconData(0xfb02, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_threejs = IconData(0xf5f0, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData brand_tidal = IconData(0xed70, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -1106,12 +1109,15 @@ class TablerIcons {
     static const IconData calendar_plus = IconData(0xebba, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData calendar_question = IconData(0xf82d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData calendar_repeat = IconData(0xfad2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData calendar_sad = IconData(0xfd1d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData calendar_search = IconData(0xf82e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData calendar_share = IconData(0xf82f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData calendar_smile = IconData(0xfd1e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData calendar_star = IconData(0xf830, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData calendar_stats = IconData(0xee20, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData calendar_time = IconData(0xee21, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData calendar_up = IconData(0xf831, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData calendar_user = IconData(0xfd1f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData calendar_x = IconData(0xf832, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData camera = IconData(0xea54, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData camera_bolt = IconData(0xf833, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -1193,6 +1199,8 @@ class TablerIcons {
     static const IconData category = IconData(0xf1f6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData category_2 = IconData(0xf1f5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData category_filled = IconData(0xfb2e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData category_minus = IconData(0xfd20, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData category_plus = IconData(0xfd21, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData ce = IconData(0xed75, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData ce_off = IconData(0xf0ca, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData cell = IconData(0xf05f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -2191,6 +2199,7 @@ class TablerIcons {
     static const IconData file_like = IconData(0xed2b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_minus = IconData(0xea9e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_music = IconData(0xea9f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData file_neutral = IconData(0xfd22, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_off = IconData(0xecf2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_orientation = IconData(0xf2a1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_pencil = IconData(0xf039, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -2200,11 +2209,13 @@ class TablerIcons {
     static const IconData file_power = IconData(0xf03a, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_report = IconData(0xeded, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_rss = IconData(0xf03b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData file_sad = IconData(0xfd23, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_scissors = IconData(0xf03c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_search = IconData(0xed5d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_settings = IconData(0xf029, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_shredder = IconData(0xeaa1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_signal = IconData(0xf03d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData file_smile = IconData(0xfd24, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_spreadsheet = IconData(0xf03e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_stack = IconData(0xf503, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData file_star = IconData(0xf03f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -3219,6 +3230,7 @@ class TablerIcons {
     static const IconData messages_off = IconData(0xed42, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData meteor = IconData(0xf1fd, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData meteor_off = IconData(0xf40c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData metronome = IconData(0xfd25, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData michelin_bib_gourmand = IconData(0xfae9, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData michelin_star = IconData(0xfaeb, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData michelin_star_green = IconData(0xfaea, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -4338,6 +4350,11 @@ class TablerIcons {
     static const IconData stack = IconData(0xeb2d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData stack_2 = IconData(0xeef7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData stack_3 = IconData(0xef9d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData stack_back = IconData(0xfd26, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData stack_backward = IconData(0xfd27, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData stack_forward = IconData(0xfd28, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData stack_front = IconData(0xfd29, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData stack_middle = IconData(0xfd2a, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData stack_pop = IconData(0xf234, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData stack_push = IconData(0xf235, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData stairs = IconData(0xeca6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -4502,6 +4519,7 @@ class TablerIcons {
     static const IconData tools_kitchen = IconData(0xed64, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData tools_kitchen_2 = IconData(0xeeff, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData tools_kitchen_2_off = IconData(0xf1b5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData tools_kitchen_3 = IconData(0xfd2b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData tools_kitchen_off = IconData(0xf1b6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData tools_off = IconData(0xf1b7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData tooltip = IconData(0xf2dd, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -5610,6 +5628,7 @@ class TablerIcons {
     "brand_google_analytics": brand_google_analytics,
     "brand_google_big_query": brand_google_big_query,
     "brand_google_drive": brand_google_drive,
+    "brand_google_filled": brand_google_filled,
     "brand_google_fit": brand_google_fit,
     "brand_google_home": brand_google_home,
     "brand_google_maps": brand_google_maps,
@@ -5704,6 +5723,7 @@ class TablerIcons {
     "brand_pocket": brand_pocket,
     "brand_polymer": brand_polymer,
     "brand_powershell": brand_powershell,
+    "brand_printables": brand_printables,
     "brand_prisma": brand_prisma,
     "brand_producthunt": brand_producthunt,
     "brand_pushbullet": brand_pushbullet,
@@ -5764,6 +5784,7 @@ class TablerIcons {
     "brand_telegram": brand_telegram,
     "brand_terraform": brand_terraform,
     "brand_tether": brand_tether,
+    "brand_thingiverse": brand_thingiverse,
     "brand_threads": brand_threads,
     "brand_threejs": brand_threejs,
     "brand_tidal": brand_tidal,
@@ -5926,12 +5947,15 @@ class TablerIcons {
     "calendar_plus": calendar_plus,
     "calendar_question": calendar_question,
     "calendar_repeat": calendar_repeat,
+    "calendar_sad": calendar_sad,
     "calendar_search": calendar_search,
     "calendar_share": calendar_share,
+    "calendar_smile": calendar_smile,
     "calendar_star": calendar_star,
     "calendar_stats": calendar_stats,
     "calendar_time": calendar_time,
     "calendar_up": calendar_up,
+    "calendar_user": calendar_user,
     "calendar_x": calendar_x,
     "camera": camera,
     "camera_bolt": camera_bolt,
@@ -6013,6 +6037,8 @@ class TablerIcons {
     "category": category,
     "category_2": category_2,
     "category_filled": category_filled,
+    "category_minus": category_minus,
+    "category_plus": category_plus,
     "ce": ce,
     "ce_off": ce_off,
     "cell": cell,
@@ -7011,6 +7037,7 @@ class TablerIcons {
     "file_like": file_like,
     "file_minus": file_minus,
     "file_music": file_music,
+    "file_neutral": file_neutral,
     "file_off": file_off,
     "file_orientation": file_orientation,
     "file_pencil": file_pencil,
@@ -7020,11 +7047,13 @@ class TablerIcons {
     "file_power": file_power,
     "file_report": file_report,
     "file_rss": file_rss,
+    "file_sad": file_sad,
     "file_scissors": file_scissors,
     "file_search": file_search,
     "file_settings": file_settings,
     "file_shredder": file_shredder,
     "file_signal": file_signal,
+    "file_smile": file_smile,
     "file_spreadsheet": file_spreadsheet,
     "file_stack": file_stack,
     "file_star": file_star,
@@ -8039,6 +8068,7 @@ class TablerIcons {
     "messages_off": messages_off,
     "meteor": meteor,
     "meteor_off": meteor_off,
+    "metronome": metronome,
     "michelin_bib_gourmand": michelin_bib_gourmand,
     "michelin_star": michelin_star,
     "michelin_star_green": michelin_star_green,
@@ -9158,6 +9188,11 @@ class TablerIcons {
     "stack": stack,
     "stack_2": stack_2,
     "stack_3": stack_3,
+    "stack_back": stack_back,
+    "stack_backward": stack_backward,
+    "stack_forward": stack_forward,
+    "stack_front": stack_front,
+    "stack_middle": stack_middle,
     "stack_pop": stack_pop,
     "stack_push": stack_push,
     "stairs": stairs,
@@ -9322,6 +9357,7 @@ class TablerIcons {
     "tools_kitchen": tools_kitchen,
     "tools_kitchen_2": tools_kitchen_2,
     "tools_kitchen_2_off": tools_kitchen_2_off,
+    "tools_kitchen_3": tools_kitchen_3,
     "tools_kitchen_off": tools_kitchen_off,
     "tools_off": tools_off,
     "tooltip": tooltip,
