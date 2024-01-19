@@ -4949,6 +4949,9 @@ class TablerIcons {
     static const IconData zoom_scan = IconData(0xfcb0, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData zzz = IconData(0xf228, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData zzz_off = IconData(0xf440, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData aaa = IconData(0xea6b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData bbb = IconData(0xeb2c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData ccc = IconData(0xeb2c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
 
   static const all = <String, IconData> {
     "one2_hours": one2_hours,
@@ -9895,5 +9898,8 @@ class TablerIcons {
     "zoom_scan": zoom_scan,
     "zzz": zzz,
     "zzz_off": zzz_off,
+    "aaa": aaa,
+    "bbb": bbb,
+    "ccc": ccc,
   };
 }
