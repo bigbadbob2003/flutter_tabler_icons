@@ -2,14 +2,14 @@
 
 The [Tabler Icon Pack](https://github.com/tabler/tabler-icons) in Flutter
 
-Tabler icons version: v3.3.0
+Tabler icons version: v3.4.0
 
 ## pubspec.yaml
 ```yml
 dependencies:
   flutter:
     sdk: flutter
-  flutter_tabler_icons: ^1.27.0
+  flutter_tabler_icons: ^1.28.0
 ```
 
 ## Usage

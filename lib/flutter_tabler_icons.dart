@@ -54,6 +54,7 @@ class TablerIcons {
     static const IconData aerial_lift = IconData(0xedfe, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData affiliate = IconData(0xedff, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData affiliate_filled = IconData(0xf6ed, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData ai = IconData(0xfee7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData air_balloon = IconData(0xf4a6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData air_conditioning = IconData(0xf3a2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData air_conditioning_disabled = IconData(0xf542, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -1267,6 +1268,7 @@ class TablerIcons {
     static const IconData cash_banknote_filled = IconData(0xfe80, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData cash_banknote_off = IconData(0xee24, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData cash_off = IconData(0xf105, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData cash_register = IconData(0xfee6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData cast = IconData(0xea56, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData cast_off = IconData(0xf0c9, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData cat = IconData(0xf65b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -3820,6 +3822,21 @@ class TablerIcons {
     static const IconData pepper = IconData(0xef15, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData pepper_off = IconData(0xf175, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData percentage = IconData(0xecf4, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_0 = IconData(0xfee5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_10 = IconData(0xfee4, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_100 = IconData(0xfee3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_20 = IconData(0xfee2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_25 = IconData(0xfee1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_30 = IconData(0xfee0, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_33 = IconData(0xfedf, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_40 = IconData(0xfede, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_50 = IconData(0xfedd, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_60 = IconData(0xfedc, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_66 = IconData(0xfedb, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_70 = IconData(0xfeda, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_75 = IconData(0xfed9, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_80 = IconData(0xfed8, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData percentage_90 = IconData(0xfed7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData perfume = IconData(0xf509, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData perspective = IconData(0xeebd, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData perspective_off = IconData(0xf176, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -3873,6 +3890,7 @@ class TablerIcons {
     static const IconData physotherapist = IconData(0xeebe, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData piano = IconData(0xfad3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData pick = IconData(0xfafc, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData picnic_table = IconData(0xfed6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData picture_in_picture = IconData(0xed35, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData picture_in_picture_filled = IconData(0xfec1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData picture_in_picture_off = IconData(0xed43, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -5360,6 +5378,7 @@ class TablerIcons {
     "aerial_lift": aerial_lift,
     "affiliate": affiliate,
     "affiliate_filled": affiliate_filled,
+    "ai": ai,
     "air_balloon": air_balloon,
     "air_conditioning": air_conditioning,
     "air_conditioning_disabled": air_conditioning_disabled,
@@ -6573,6 +6592,7 @@ class TablerIcons {
     "cash_banknote_filled": cash_banknote_filled,
     "cash_banknote_off": cash_banknote_off,
     "cash_off": cash_off,
+    "cash_register": cash_register,
     "cast": cast,
     "cast_off": cast_off,
     "cat": cat,
@@ -9126,6 +9146,21 @@ class TablerIcons {
     "pepper": pepper,
     "pepper_off": pepper_off,
     "percentage": percentage,
+    "percentage_0": percentage_0,
+    "percentage_10": percentage_10,
+    "percentage_100": percentage_100,
+    "percentage_20": percentage_20,
+    "percentage_25": percentage_25,
+    "percentage_30": percentage_30,
+    "percentage_33": percentage_33,
+    "percentage_40": percentage_40,
+    "percentage_50": percentage_50,
+    "percentage_60": percentage_60,
+    "percentage_66": percentage_66,
+    "percentage_70": percentage_70,
+    "percentage_75": percentage_75,
+    "percentage_80": percentage_80,
+    "percentage_90": percentage_90,
     "perfume": perfume,
     "perspective": perspective,
     "perspective_off": perspective_off,
@@ -9179,6 +9214,7 @@ class TablerIcons {
     "physotherapist": physotherapist,
     "piano": piano,
     "pick": pick,
+    "picnic_table": picnic_table,
     "picture_in_picture": picture_in_picture,
     "picture_in_picture_filled": picture_in_picture_filled,
     "picture_in_picture_off": picture_in_picture_off,
