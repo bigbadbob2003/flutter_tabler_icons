@@ -1460,6 +1460,33 @@ class TablerIcons {
     static const IconData circle_chevrons_up = IconData(0xf645, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_dashed = IconData(0xed27, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_dashed_check = IconData(0xfeb8, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_a = IconData(0xff9a, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_b = IconData(0xff99, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_c = IconData(0xff98, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_d = IconData(0xff97, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_e = IconData(0xff96, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_f = IconData(0xff95, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_g = IconData(0xff94, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_h = IconData(0xff93, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_i = IconData(0xff92, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_j = IconData(0xff91, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_k = IconData(0xff90, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_l = IconData(0xff8f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_letter_v = IconData(0xff8e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_m = IconData(0xff8d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_n = IconData(0xff8c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_o = IconData(0xff8b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_p = IconData(0xff8a, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_q = IconData(0xff89, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_r = IconData(0xff88, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_s = IconData(0xff87, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_t = IconData(0xff86, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_u = IconData(0xff85, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_v = IconData(0xff84, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_w = IconData(0xff83, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_x = IconData(0xff82, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_y = IconData(0xff81, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dashed_letter_z = IconData(0xff80, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_dashed_minus = IconData(0xfeb7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_dashed_number_0 = IconData(0xfc6b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_dashed_number_1 = IconData(0xfc6c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -1477,6 +1504,32 @@ class TablerIcons {
     static const IconData circle_dot = IconData(0xefb1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_dot_filled = IconData(0xf705, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_dotted = IconData(0xed28, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_a = IconData(0xff7f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_b = IconData(0xff7e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_c = IconData(0xff7d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_d = IconData(0xff7c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_e = IconData(0xff7b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_f = IconData(0xff7a, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_g = IconData(0xff79, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_h = IconData(0xff78, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_i = IconData(0xff77, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_j = IconData(0xff76, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_k = IconData(0xff75, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_l = IconData(0xff74, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_m = IconData(0xff73, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_n = IconData(0xff72, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_o = IconData(0xff71, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_p = IconData(0xff70, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_q = IconData(0xff6f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_r = IconData(0xff6e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_s = IconData(0xff6d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_t = IconData(0xff6c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_u = IconData(0xff6b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_v = IconData(0xff6a, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_w = IconData(0xff69, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_x = IconData(0xff68, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_y = IconData(0xff67, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData circle_dotted_letter_z = IconData(0xff66, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_filled = IconData(0xf671, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_half = IconData(0xee3f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData circle_half_2 = IconData(0xeff3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -6911,6 +6964,33 @@ class TablerIcons {
     "circle_chevrons_up": circle_chevrons_up,
     "circle_dashed": circle_dashed,
     "circle_dashed_check": circle_dashed_check,
+    "circle_dashed_letter_a": circle_dashed_letter_a,
+    "circle_dashed_letter_b": circle_dashed_letter_b,
+    "circle_dashed_letter_c": circle_dashed_letter_c,
+    "circle_dashed_letter_d": circle_dashed_letter_d,
+    "circle_dashed_letter_e": circle_dashed_letter_e,
+    "circle_dashed_letter_f": circle_dashed_letter_f,
+    "circle_dashed_letter_g": circle_dashed_letter_g,
+    "circle_dashed_letter_h": circle_dashed_letter_h,
+    "circle_dashed_letter_i": circle_dashed_letter_i,
+    "circle_dashed_letter_j": circle_dashed_letter_j,
+    "circle_dashed_letter_k": circle_dashed_letter_k,
+    "circle_dashed_letter_l": circle_dashed_letter_l,
+    "circle_dashed_letter_letter_v": circle_dashed_letter_letter_v,
+    "circle_dashed_letter_m": circle_dashed_letter_m,
+    "circle_dashed_letter_n": circle_dashed_letter_n,
+    "circle_dashed_letter_o": circle_dashed_letter_o,
+    "circle_dashed_letter_p": circle_dashed_letter_p,
+    "circle_dashed_letter_q": circle_dashed_letter_q,
+    "circle_dashed_letter_r": circle_dashed_letter_r,
+    "circle_dashed_letter_s": circle_dashed_letter_s,
+    "circle_dashed_letter_t": circle_dashed_letter_t,
+    "circle_dashed_letter_u": circle_dashed_letter_u,
+    "circle_dashed_letter_v": circle_dashed_letter_v,
+    "circle_dashed_letter_w": circle_dashed_letter_w,
+    "circle_dashed_letter_x": circle_dashed_letter_x,
+    "circle_dashed_letter_y": circle_dashed_letter_y,
+    "circle_dashed_letter_z": circle_dashed_letter_z,
     "circle_dashed_minus": circle_dashed_minus,
     "circle_dashed_number_0": circle_dashed_number_0,
     "circle_dashed_number_1": circle_dashed_number_1,
@@ -6928,6 +7008,32 @@ class TablerIcons {
     "circle_dot": circle_dot,
     "circle_dot_filled": circle_dot_filled,
     "circle_dotted": circle_dotted,
+    "circle_dotted_letter_a": circle_dotted_letter_a,
+    "circle_dotted_letter_b": circle_dotted_letter_b,
+    "circle_dotted_letter_c": circle_dotted_letter_c,
+    "circle_dotted_letter_d": circle_dotted_letter_d,
+    "circle_dotted_letter_e": circle_dotted_letter_e,
+    "circle_dotted_letter_f": circle_dotted_letter_f,
+    "circle_dotted_letter_g": circle_dotted_letter_g,
+    "circle_dotted_letter_h": circle_dotted_letter_h,
+    "circle_dotted_letter_i": circle_dotted_letter_i,
+    "circle_dotted_letter_j": circle_dotted_letter_j,
+    "circle_dotted_letter_k": circle_dotted_letter_k,
+    "circle_dotted_letter_l": circle_dotted_letter_l,
+    "circle_dotted_letter_m": circle_dotted_letter_m,
+    "circle_dotted_letter_n": circle_dotted_letter_n,
+    "circle_dotted_letter_o": circle_dotted_letter_o,
+    "circle_dotted_letter_p": circle_dotted_letter_p,
+    "circle_dotted_letter_q": circle_dotted_letter_q,
+    "circle_dotted_letter_r": circle_dotted_letter_r,
+    "circle_dotted_letter_s": circle_dotted_letter_s,
+    "circle_dotted_letter_t": circle_dotted_letter_t,
+    "circle_dotted_letter_u": circle_dotted_letter_u,
+    "circle_dotted_letter_v": circle_dotted_letter_v,
+    "circle_dotted_letter_w": circle_dotted_letter_w,
+    "circle_dotted_letter_x": circle_dotted_letter_x,
+    "circle_dotted_letter_y": circle_dotted_letter_y,
+    "circle_dotted_letter_z": circle_dotted_letter_z,
     "circle_filled": circle_filled,
     "circle_half": circle_half,
     "circle_half_2": circle_half_2,
