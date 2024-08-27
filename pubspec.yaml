@@ -3,7 +3,7 @@ description: Tabler Icons for flutter using icons from https://github.com/tabler
 repository: https://github.com/bigbadbob2003/flutter_tabler_icons
 homepage: https://github.com/bigbadbob2003/flutter_tabler_icons
 
-version: 1.36.0
+version: 1.37.0
 
 environment:
   sdk: ">=2.12.0 <4.0.0"
