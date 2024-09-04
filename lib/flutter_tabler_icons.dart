@@ -3843,6 +3843,7 @@ class TablerIcons {
     static const IconData number_1 = IconData(0xedf1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_1_small = IconData(0xfce2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_10_small = IconData(0xfce3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_100_small = IconData(0x10005, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_11_small = IconData(0xfce4, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_12_small = IconData(0xfce5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_123 = IconData(0xf554, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -3867,18 +3868,88 @@ class TablerIcons {
     static const IconData number_29_small = IconData(0xfcf7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_3 = IconData(0xedf3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_3_small = IconData(0xfcf8, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_30_small = IconData(0x10004, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_31_small = IconData(0x10003, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_32_small = IconData(0x10002, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_33_small = IconData(0x10001, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_34_small = IconData(0x10000, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_35_small = IconData(0xffff, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_36_small = IconData(0xfffe, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_37_small = IconData(0xfffd, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_38_small = IconData(0xfffc, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_39_small = IconData(0xfffb, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_4 = IconData(0xedf4, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_4_small = IconData(0xfcf9, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_40_small = IconData(0xfffa, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_41_small = IconData(0xfff9, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_42_small = IconData(0xfff8, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_43_small = IconData(0xfff7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_44_small = IconData(0xfff6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_45_small = IconData(0xfff5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_46_small = IconData(0xfff4, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_47_small = IconData(0xfff3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_48_small = IconData(0xfff2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_49_small = IconData(0xfff1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_5 = IconData(0xedf5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_5_small = IconData(0xfcfa, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_50_small = IconData(0xfff0, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_51_small = IconData(0xffef, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_52_small = IconData(0xffee, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_53_small = IconData(0xffed, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_54_small = IconData(0xffec, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_55_small = IconData(0xffeb, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_56_small = IconData(0xffea, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_57_small = IconData(0xffe9, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_58_small = IconData(0xffe8, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_59_small = IconData(0xffe7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_6 = IconData(0xedf6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_6_small = IconData(0xfcfb, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_60_small = IconData(0xffe6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_61_small = IconData(0xffe5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_62_small = IconData(0xffe4, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_63_small = IconData(0xffe3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_64_small = IconData(0xffe2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_65_small = IconData(0xffe1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_66_small = IconData(0xffe0, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_67_small = IconData(0xffdf, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_68_small = IconData(0xffde, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_69_small = IconData(0xffdd, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_7 = IconData(0xedf7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_7_small = IconData(0xfcfc, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_70_small = IconData(0xffdc, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_71_small = IconData(0xffdb, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_72_small = IconData(0xffda, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_73_small = IconData(0xffd9, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_74_small = IconData(0xffd8, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_75_small = IconData(0xffd7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_76_small = IconData(0xffd6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_77_small = IconData(0xffd5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_78_small = IconData(0xffd4, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_79_small = IconData(0xffd3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_8 = IconData(0xedf8, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_8_small = IconData(0xfcfd, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_80_small = IconData(0xffd2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_81_small = IconData(0xffd1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_82_small = IconData(0xffd0, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_83_small = IconData(0xffcf, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_84_small = IconData(0xffce, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_85_small = IconData(0xffcd, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_86_small = IconData(0xffcc, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_87_small = IconData(0xffcb, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_88_small = IconData(0xffca, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_89_small = IconData(0xffc9, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_9 = IconData(0xedf9, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_9_small = IconData(0xfcfe, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_90_small = IconData(0xffc8, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_91_small = IconData(0xffc7, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_92_small = IconData(0xffc6, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_93_small = IconData(0xffc5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_94_small = IconData(0xffc4, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_95_small = IconData(0xffc3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_96_small = IconData(0xffc2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_97_small = IconData(0xffc1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_98_small = IconData(0xffc0, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_99_small = IconData(0xffbf, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData numbers = IconData(0xf015, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData nurse = IconData(0xef65, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData nut = IconData(0xfc61, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -9383,6 +9454,7 @@ class TablerIcons {
     "number_1": number_1,
     "number_1_small": number_1_small,
     "number_10_small": number_10_small,
+    "number_100_small": number_100_small,
     "number_11_small": number_11_small,
     "number_12_small": number_12_small,
     "number_123": number_123,
@@ -9407,18 +9479,88 @@ class TablerIcons {
     "number_29_small": number_29_small,
     "number_3": number_3,
     "number_3_small": number_3_small,
+    "number_30_small": number_30_small,
+    "number_31_small": number_31_small,
+    "number_32_small": number_32_small,
+    "number_33_small": number_33_small,
+    "number_34_small": number_34_small,
+    "number_35_small": number_35_small,
+    "number_36_small": number_36_small,
+    "number_37_small": number_37_small,
+    "number_38_small": number_38_small,
+    "number_39_small": number_39_small,
     "number_4": number_4,
     "number_4_small": number_4_small,
+    "number_40_small": number_40_small,
+    "number_41_small": number_41_small,
+    "number_42_small": number_42_small,
+    "number_43_small": number_43_small,
+    "number_44_small": number_44_small,
+    "number_45_small": number_45_small,
+    "number_46_small": number_46_small,
+    "number_47_small": number_47_small,
+    "number_48_small": number_48_small,
+    "number_49_small": number_49_small,
     "number_5": number_5,
     "number_5_small": number_5_small,
+    "number_50_small": number_50_small,
+    "number_51_small": number_51_small,
+    "number_52_small": number_52_small,
+    "number_53_small": number_53_small,
+    "number_54_small": number_54_small,
+    "number_55_small": number_55_small,
+    "number_56_small": number_56_small,
+    "number_57_small": number_57_small,
+    "number_58_small": number_58_small,
+    "number_59_small": number_59_small,
     "number_6": number_6,
     "number_6_small": number_6_small,
+    "number_60_small": number_60_small,
+    "number_61_small": number_61_small,
+    "number_62_small": number_62_small,
+    "number_63_small": number_63_small,
+    "number_64_small": number_64_small,
+    "number_65_small": number_65_small,
+    "number_66_small": number_66_small,
+    "number_67_small": number_67_small,
+    "number_68_small": number_68_small,
+    "number_69_small": number_69_small,
     "number_7": number_7,
     "number_7_small": number_7_small,
+    "number_70_small": number_70_small,
+    "number_71_small": number_71_small,
+    "number_72_small": number_72_small,
+    "number_73_small": number_73_small,
+    "number_74_small": number_74_small,
+    "number_75_small": number_75_small,
+    "number_76_small": number_76_small,
+    "number_77_small": number_77_small,
+    "number_78_small": number_78_small,
+    "number_79_small": number_79_small,
     "number_8": number_8,
     "number_8_small": number_8_small,
+    "number_80_small": number_80_small,
+    "number_81_small": number_81_small,
+    "number_82_small": number_82_small,
+    "number_83_small": number_83_small,
+    "number_84_small": number_84_small,
+    "number_85_small": number_85_small,
+    "number_86_small": number_86_small,
+    "number_87_small": number_87_small,
+    "number_88_small": number_88_small,
+    "number_89_small": number_89_small,
     "number_9": number_9,
     "number_9_small": number_9_small,
+    "number_90_small": number_90_small,
+    "number_91_small": number_91_small,
+    "number_92_small": number_92_small,
+    "number_93_small": number_93_small,
+    "number_94_small": number_94_small,
+    "number_95_small": number_95_small,
+    "number_96_small": number_96_small,
+    "number_97_small": number_97_small,
+    "number_98_small": number_98_small,
+    "number_99_small": number_99_small,
     "numbers": numbers,
     "nurse": nurse,
     "nut": nut,
