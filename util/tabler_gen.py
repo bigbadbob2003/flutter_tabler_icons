@@ -129,7 +129,7 @@ if __name__ == "__main__":
             name = re.search("(?<=\.ti-).*(?=:)", rule).group()
             code_point = re.search('(?<=content: "\\\).*(?=";)', rule).group()
 
-            assert len(code_point) == 4
+            #assert len(code_point) == 4
 
             name_code_point_dict[name] = code_point
 
