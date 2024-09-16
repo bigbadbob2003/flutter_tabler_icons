@@ -1,3 +1,9 @@
+## [1.41.0] - 2024-9-16
+
+### Changed
+
+- Tabler icons updated to version v3.17.0
+
 ## [1.40.0] - 2024-9-11
 
 ### Changed
