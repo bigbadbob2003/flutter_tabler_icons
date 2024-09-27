@@ -3170,6 +3170,7 @@ class TablerIcons {
     static const IconData join_bevel = IconData(0xff4c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData join_round = IconData(0xff4b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData join_straight = IconData(0xff4a, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData joker = IconData(0x1005f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData jpg = IconData(0xf3ac, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData json = IconData(0xf7b2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData jump_rope = IconData(0xed8f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -3911,8 +3912,10 @@ class TablerIcons {
     static const IconData number_0_small = IconData(0xfce1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_1 = IconData(0xedf1, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_1_small = IconData(0xfce2, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_10 = IconData(0x1005e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_10_small = IconData(0xfce3, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_100_small = IconData(0x10005, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData number_11 = IconData(0x1005d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_11_small = IconData(0xfce4, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_12_small = IconData(0xfce5, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData number_123 = IconData(0xf554, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -4248,7 +4251,22 @@ class TablerIcons {
     static const IconData plant_off = IconData(0xf17d, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData play_basketball = IconData(0xfa66, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData play_card = IconData(0xeebf, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_1 = IconData(0x1005c, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_10 = IconData(0x1005b, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_2 = IconData(0x1005a, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_3 = IconData(0x10059, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_4 = IconData(0x10058, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_5 = IconData(0x10057, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_6 = IconData(0x10056, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_7 = IconData(0x10055, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_8 = IconData(0x10054, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_9 = IconData(0x10053, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_a = IconData(0x10052, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_j = IconData(0x10051, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_k = IconData(0x10050, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData play_card_off = IconData(0xf17e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_q = IconData(0x1004f, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
+    static const IconData play_card_star = IconData(0x1004e, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData play_football = IconData(0xfa67, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData play_handball = IconData(0xfa68, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
     static const IconData play_volleyball = IconData(0xfa69, fontFamily: "tabler-icons", fontPackage: "flutter_tabler_icons");
@@ -8853,6 +8871,7 @@ class TablerIcons {
     "join_bevel": join_bevel,
     "join_round": join_round,
     "join_straight": join_straight,
+    "joker": joker,
     "jpg": jpg,
     "json": json,
     "jump_rope": jump_rope,
@@ -9594,8 +9613,10 @@ class TablerIcons {
     "number_0_small": number_0_small,
     "number_1": number_1,
     "number_1_small": number_1_small,
+    "number_10": number_10,
     "number_10_small": number_10_small,
     "number_100_small": number_100_small,
+    "number_11": number_11,
     "number_11_small": number_11_small,
     "number_12_small": number_12_small,
     "number_123": number_123,
@@ -9931,7 +9952,22 @@ class TablerIcons {
     "plant_off": plant_off,
     "play_basketball": play_basketball,
     "play_card": play_card,
+    "play_card_1": play_card_1,
+    "play_card_10": play_card_10,
+    "play_card_2": play_card_2,
+    "play_card_3": play_card_3,
+    "play_card_4": play_card_4,
+    "play_card_5": play_card_5,
+    "play_card_6": play_card_6,
+    "play_card_7": play_card_7,
+    "play_card_8": play_card_8,
+    "play_card_9": play_card_9,
+    "play_card_a": play_card_a,
+    "play_card_j": play_card_j,
+    "play_card_k": play_card_k,
     "play_card_off": play_card_off,
+    "play_card_q": play_card_q,
+    "play_card_star": play_card_star,
     "play_football": play_football,
     "play_handball": play_handball,
     "play_volleyball": play_volleyball,
