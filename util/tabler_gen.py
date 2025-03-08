@@ -123,11 +123,11 @@ if __name__ == "__main__":
     # I tried (in both Dart and Python) were horrible to use.
     with open(css_file_path, "r") as input_file:
         css = input_file.read()
-        rules = re.findall(".*:before {\s.*\s}", css)
+        rules = re.findall(r".*:before {\s.*\s}", css)
 
         for rule in rules:
-            name = re.search("(?<=\.ti-).*(?=:)", rule).group()
-            code_point = re.search('(?<=content: "\\\).*(?=";)', rule).group()
+            name = re.search(r"(?<=\.ti-).*(?=:)", rule).group()
+            code_point = re.search(r'(?<=content: "\\).*(?=";)', rule).group()
 
             #assert len(code_point) == 4
 
